@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[CV](https://www.youtube.com/?hl=zh-TW&gl=TW) and ![Image](src)
+ and ![Image](src)
 ```
-
+[CV](https://www.youtube.com/?hl=zh-TW&gl=TW)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
